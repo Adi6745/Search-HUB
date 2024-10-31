@@ -1,5 +1,7 @@
 Search Hub is a web application that allows users to search across multiple search engines, including Google, Bing, YouTube, and Ask.com, all from a single interface. 
+
 This platform aims to streamline the searching process by providing quick access to various search engines.
+
 Technologies Used :
 
  HTML
